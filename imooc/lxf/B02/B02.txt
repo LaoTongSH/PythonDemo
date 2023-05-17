@@ -1,0 +1,29 @@
+# -- coding:utf-8 --
+#这是慕课网廖雪峰视频讲座的示例和任务
+#A."Python入门"
+#B."Python进阶"
+
+# 進階篇 第2章 函數式編程
+B02.1.py    §02.2 例題    §02.3 任務
+B02.2.py    §02.4 任務
+B02.3.py    §02.3 例題
+B02.4.py    §02.6 任務
+B02.5.py
+B02.6.py
+B02.7.py
+B02.8.py
+B02.9.py
+B02.a.py
+B02.b.py
+B02.c.py
+B02.d.py
+B02.e.py
+B02.f.py
+B02.g.py
+B02.h.py
+B02.i.py
+B02.j.py
+B02.k.py
+B02.l.py
+B02.m.py
+B02.n.py

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fe5a2cb-cc69-4bd4-82a5-db8d477af724" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VJtprGdBl6jYOZROI1BmPcO0PQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SXT/400.2/代码/tank05.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\ Python\code\csdn\Applets\03" />
+      <recent name="G:\ Python\code\csdn\Applets\02" />
+      <recent name="G:\ Python\code\csdn\Applets\01" />
+      <recent name="G:\ Python\code\csdn\Applets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tank05 (2)">
+    <configuration name="03.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Csdn.Applets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03/03.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tank04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Csdn.Applets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../SXT/400.2/7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../SXT/400.2/7/tank04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tank05 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Csdn.Applets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../SXT/400.2/7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../SXT/400.2/7/tank05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tank05 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Csdn.Applets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../SXT/400.2/代码" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../SXT/400.2/代码/tank05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tank05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Csdn.Applets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../SXT/400.2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../SXT/400.2/tank05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tank05 (2)" />
+        <item itemvalue="Python.tank05 (1)" />
+        <item itemvalue="Python.tank04 (1)" />
+        <item itemvalue="Python.03.1" />
+        <item itemvalue="Python.tank05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fe5a2cb-cc69-4bd4-82a5-db8d477af724" name="默认更改列表" comment="" />
+      <created>1576983211608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576983211608</updated>
+      <workItem from="1576983212709" duration="11856000" />
+      <workItem from="1577028172607" duration="79000" />
+      <workItem from="1577099868576" duration="1419000" />
+      <workItem from="1577245941864" duration="677000" />
+      <workItem from="1577332779356" duration="10359000" />
+      <workItem from="1577411661123" duration="40336000" />
+      <workItem from="1577592277306" duration="1027000" />
+      <workItem from="1578289813303" duration="11138000" />
+      <workItem from="1578361537034" duration="4260000" />
+      <workItem from="1578367420977" duration="8429000" />
+      <workItem from="1578387369273" duration="945000" />
+      <workItem from="1578445728197" duration="2905000" />
+      <workItem from="1578619530657" duration="7662000" />
+      <workItem from="1578793393584" duration="12750000" />
+      <workItem from="1578925914050" duration="16328000" />
+      <workItem from="1579139109965" duration="13904000" />
+      <workItem from="1579231062304" duration="11564000" />
+      <workItem from="1579667839782" duration="25494000" />
+      <workItem from="1579922151869" duration="32122000" />
+      <workItem from="1580178806324" duration="64652000" />
+      <workItem from="1580956104401" duration="48260000" />
+      <workItem from="1581830886328" duration="2844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_3.coverage" NAME="§02.3 Coverage Results" MODIFIED="1577583636973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_4__1_.coverage" NAME="03.4 (1) Coverage Results" MODIFIED="1579146119605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_6.coverage" NAME="§02.6 Coverage Results" MODIFIED="1579784484330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_01_2.coverage" NAME="§01.2 Coverage Results" MODIFIED="1577431665932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_2_1.coverage" NAME="03.9.2.1 Coverage Results" MODIFIED="1581134010108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_1__1_.coverage" NAME="03.9.1 (1) Coverage Results" MODIFIED="1580520748501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_6__1_.coverage" NAME="03.6 (1) Coverage Results" MODIFIED="1579683927253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_01_1__1_.coverage" NAME="§01.1 (1) Coverage Results" MODIFIED="1577431646528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_D.coverage" NAME="03.D Coverage Results" MODIFIED="1579700275444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_2_PY.coverage" NAME="03.9.2.PY Coverage Results" MODIFIED="1581132913159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9.coverage" NAME="03.9 Coverage Results" MODIFIED="1579785463410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$tank05__1_.coverage" NAME="tank05 (1) Coverage Results" MODIFIED="1581909312410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../SXT/400.2/7" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_A.coverage" NAME="03.A Coverage Results" MODIFIED="1581425863433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$tank04.coverage" NAME="tank04 Coverage Results" MODIFIED="1581733060144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../SXT/400.2" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_6.coverage" NAME="03.6 Coverage Results" MODIFIED="1579679661437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_1.coverage" NAME="03.9.1 Coverage Results" MODIFIED="1581132859384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$01_1.coverage" NAME="01.1 Coverage Results" MODIFIED="1576983414891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_7_PY.coverage" NAME="03.7.PY Coverage Results" MODIFIED="1579698172768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_3.coverage" NAME="03.3 Coverage Results" MODIFIED="1578377159393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_01_4.coverage" NAME="§01.4 Coverage Results" MODIFIED="1577026162090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_0.coverage" NAME="03.9.0 Coverage Results" MODIFIED="1581132841379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_b.coverage" NAME="03.b Coverage Results" MODIFIED="1580350255607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_2.coverage" NAME="03.2 Coverage Results" MODIFIED="1579141313577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_8.coverage" NAME="03.8 Coverage Results" MODIFIED="1579769047305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$tank05.coverage" NAME="tank05 Coverage Results" MODIFIED="1581744199838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../SXT/400.2" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_5.coverage" NAME="§02.5 Coverage Results" MODIFIED="1577588081567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_71_PY.coverage" NAME="03.71.PY Coverage Results" MODIFIED="1579784018170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_90_PY.coverage" NAME="03.90.PY Coverage Results" MODIFIED="1579679427844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$tank05__2_.coverage" NAME="tank05 (2) Coverage Results" MODIFIED="1581909539076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../SXT/400.2/代码" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_81.coverage" NAME="03.81 Coverage Results" MODIFIED="1579785299403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_7__1_.coverage" NAME="03.7 (1) Coverage Results" MODIFIED="1579164712437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_7.coverage" NAME="03.7 Coverage Results" MODIFIED="1579700570539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_1.coverage" NAME="03.1 Coverage Results" MODIFIED="1581856531284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$02_3.coverage" NAME="02.3 Coverage Results" MODIFIED="1577433831963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_a.coverage" NAME="03.a Coverage Results" MODIFIED="1579678948422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_4.coverage" NAME="03.4 Coverage Results" MODIFIED="1579145678718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_01_2__1_.coverage" NAME="§01.2 (1) Coverage Results" MODIFIED="1577416505278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_01_3.coverage" NAME="§01.3 Coverage Results" MODIFIED="1577423932501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_7.coverage" NAME="§02.7 Coverage Results" MODIFIED="1579784434295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_1.coverage" NAME="§02.1 Coverage Results" MODIFIED="1577424193048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$01_2.coverage" NAME="01.2 Coverage Results" MODIFIED="1576986356497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_4.coverage" NAME="§02.4 Coverage Results" MODIFIED="1577589070030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_1__1_.coverage" NAME="§02.1 (1) Coverage Results" MODIFIED="1577433861532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$tank04__1_.coverage" NAME="tank04 (1) Coverage Results" MODIFIED="1581909144197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../SXT/400.2/7" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$01_4.coverage" NAME="01.4 Coverage Results" MODIFIED="1577246017093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_3.coverage" NAME="03.9.3 Coverage Results" MODIFIED="1580995780866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_2.coverage" NAME="§02.2 Coverage Results" MODIFIED="1577523126684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_01_1.coverage" NAME="§01.1 Coverage Results" MODIFIED="1577588607338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_5.coverage" NAME="03.5 Coverage Results" MODIFIED="1579684820587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_9_2.coverage" NAME="03.9.2 Coverage Results" MODIFIED="1581424240531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$tank03.coverage" NAME="tank03 Coverage Results" MODIFIED="1581667090513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../SXT/400.2" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$_02_1__2_.coverage" NAME="§02.1 (2) Coverage Results" MODIFIED="1577506273672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Csdn_Applets$03_a1.coverage" NAME="03.a1 Coverage Results" MODIFIED="1581298338244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+  </component>
+</project>

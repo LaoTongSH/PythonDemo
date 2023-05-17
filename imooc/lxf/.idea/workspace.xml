@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e344dc12-43d9-4aaf-b0a4-f1adf1958901" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UaxEIZ8i9x1OGbQO7hx73LyE7Z" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../coco/L1.01.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.常规" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\ Python\code\imooc\lxf\B02" />
+      <recent name="G:\ Python\code\imooc\lxf\A" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ Python\code\imooc\lxf\B04" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.L1.01">
+    <configuration name="A13.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Imooc.Lxf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A/A13.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B06.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Imooc.Lxf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B06/B06.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B06.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Imooc.Lxf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B06/B06.5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B06.6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Imooc.Lxf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B06/B06.6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L1.01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Imooc.Lxf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../coco" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../coco/L1.01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.L1.01" />
+        <item itemvalue="Python.B06.6" />
+        <item itemvalue="Python.B06.5" />
+        <item itemvalue="Python.B06.1" />
+        <item itemvalue="Python.A13.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e344dc12-43d9-4aaf-b0a4-f1adf1958901" name="默认更改列表" comment="" />
+      <created>1575608406650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575608406650</updated>
+      <workItem from="1575608420132" duration="11412000" />
+      <workItem from="1575644217083" duration="52000" />
+      <workItem from="1575681006521" duration="14927000" />
+      <workItem from="1575764537786" duration="4853000" />
+      <workItem from="1575856196974" duration="14723000" />
+      <workItem from="1575945565979" duration="10313000" />
+      <workItem from="1576026288747" duration="19872000" />
+      <workItem from="1576196975899" duration="25587000" />
+      <workItem from="1576369718814" duration="7153000" />
+      <workItem from="1576392551189" duration="11100000" />
+      <workItem from="1576455848368" duration="8921000" />
+      <workItem from="1576550202397" duration="1621000" />
+      <workItem from="1576558476581" duration="9153000" />
+      <workItem from="1576628155541" duration="3929000" />
+      <workItem from="1576675687304" duration="2854000" />
+      <workItem from="1576717592955" duration="6617000" />
+      <workItem from="1576756199265" duration="1427000" />
+      <workItem from="1576763993764" duration="1623000" />
+      <workItem from="1576801987654" duration="897000" />
+      <workItem from="1576806965727" duration="1507000" />
+      <workItem from="1576897333564" duration="640000" />
+      <workItem from="1576982529895" duration="809000" />
+      <workItem from="1593259097360" duration="157000" />
+      <workItem from="1605240481923" duration="5745000" />
+      <workItem from="1635575448512" duration="1905000" />
+      <workItem from="1635642264368" duration="4919000" />
+      <workItem from="1644147666837" duration="2140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lxf$spider.coverage" NAME="spider Coverage Results" MODIFIED="1575857256957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../bqb" />
+    <SUITE FILE_PATH="coverage/lxf$B04_6.coverage" NAME="B04.6 Coverage Results" MODIFIED="1576162509934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B05_4.coverage" NAME="B05.4 Coverage Results" MODIFIED="1576034138384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$B04_3.coverage" NAME="B04.3 Coverage Results" MODIFIED="1575643624693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B05_1.coverage" NAME="B05.1 Coverage Results" MODIFIED="1575957980420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$B4_a.coverage" NAME="B4.a Coverage Results" MODIFIED="1575811174575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B06_2.coverage" NAME="B06.2 Coverage Results" MODIFIED="1576214080482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_8.coverage" NAME="B06.8 Coverage Results" MODIFIED="1576467481004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$A_13_6.coverage" NAME="A.13.6 Coverage Results" MODIFIED="1635642312943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/lxf$B02_d.coverage" NAME="B02.d Coverage Results" MODIFIED="1575608963669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B02_1.coverage" NAME="B02.1 Coverage Results" MODIFIED="1576197899183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B05_7.coverage" NAME="B05.7 Coverage Results" MODIFIED="1576071768760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$B06_5.coverage" NAME="B06.5 Coverage Results" MODIFIED="1576325699359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_6__1_.coverage" NAME="B06.6 (1) Coverage Results" MODIFIED="1576409446274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B4_7.coverage" NAME="B4.7 Coverage Results" MODIFIED="1575703938671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$B06_5.coverage" NAME="B06.5 Coverage Results" MODIFIED="1635644362673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$L1_01.coverage" NAME="L1.01 Coverage Results" MODIFIED="1644149424916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../coco" />
+    <SUITE FILE_PATH="coverage/lxf$main.coverage" NAME="main Coverage Results" MODIFIED="1575856311970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Tetris" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$A13_1.coverage" NAME="A13.1 Coverage Results" MODIFIED="1635643174442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/lxf$B4_9.coverage" NAME="B4.9 Coverage Results" MODIFIED="1575722709258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B06_6.coverage" NAME="B06.6 Coverage Results" MODIFIED="1576389780633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B4_c.coverage" NAME="B4.c Coverage Results" MODIFIED="1575938717185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$mypy_09.coverage" NAME="mypy_09 Coverage Results" MODIFIED="1576754998553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../尚学堂/Python400集第一季源代码/python_exec" />
+    <SUITE FILE_PATH="coverage/lxf$B02_9.coverage" NAME="B02.9 Coverage Results" MODIFIED="1575608591177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B04_5.coverage" NAME="B04.5 Coverage Results" MODIFIED="1575692298131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B02_k.coverage" NAME="B02.k Coverage Results" MODIFIED="1575608770606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B06_c.coverage" NAME="B06.c Coverage Results" MODIFIED="1576564716078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_7.coverage" NAME="B06.7 Coverage Results" MODIFIED="1576413528866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_b.coverage" NAME="B06.b Coverage Results" MODIFIED="1576590699001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_1.coverage" NAME="B06.1 Coverage Results" MODIFIED="1576212317599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_h.coverage" NAME="B06.h Coverage Results" MODIFIED="1576834115543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$game.coverage" NAME="game Coverage Results" MODIFIED="1575857138263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../魔塔" />
+    <SUITE FILE_PATH="coverage/lxf$B05_6.coverage" NAME="B05.6 Coverage Results" MODIFIED="1576055290675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$Game.coverage" NAME="Game Coverage Results" MODIFIED="1576802182186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../game/code/chap14" />
+    <SUITE FILE_PATH="coverage/lxf$spaceShooter.coverage" NAME="spaceShooter Coverage Results" MODIFIED="1576834172175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../spaceShooter-master/spaceshooter" />
+    <SUITE FILE_PATH="coverage/lxf$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1575857107601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../魔塔" />
+    <SUITE FILE_PATH="coverage/lxf$B4_d.coverage" NAME="B4.d Coverage Results" MODIFIED="1575886041147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$A13_2.coverage" NAME="A13.2 Coverage Results" MODIFIED="1635642980396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$A13_5.coverage" NAME="A13.5 Coverage Results" MODIFIED="1605240877359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/lxf$B06_g.coverage" NAME="B06.g Coverage Results" MODIFIED="1576720552446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B02_i.coverage" NAME="B02.i Coverage Results" MODIFIED="1575608746746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B02_l.coverage" NAME="B02.l Coverage Results" MODIFIED="1575608792395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B04_1.coverage" NAME="B04.1 Coverage Results" MODIFIED="1575631449346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B4_e.coverage" NAME="B4.e Coverage Results" MODIFIED="1575951886628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B05_5.coverage" NAME="B05.5 Coverage Results" MODIFIED="1576050755679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$B03_1.coverage" NAME="B03.1 Coverage Results" MODIFIED="1575610001026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B03" />
+    <SUITE FILE_PATH="coverage/lxf$B06_3.coverage" NAME="B06.3 Coverage Results" MODIFIED="1576288281270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_d.coverage" NAME="B06.d Coverage Results" MODIFIED="1576632400075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B04_4.coverage" NAME="B04.4 Coverage Results" MODIFIED="1575690401601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B05_2.coverage" NAME="B05.2 Coverage Results" MODIFIED="1575959194130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$B04_7.coverage" NAME="B04.7 Coverage Results" MODIFIED="1576162539959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B06_a.coverage" NAME="B06.a Coverage Results" MODIFIED="1576471235210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$Player.coverage" NAME="Player Coverage Results" MODIFIED="1576802273475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../game/code/chap14" />
+    <SUITE FILE_PATH="coverage/lxf$A08_5.coverage" NAME="A08.5 Coverage Results" MODIFIED="1576375148906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/lxf$B4_6.coverage" NAME="B4.6 Coverage Results" MODIFIED="1575721730568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$time.coverage" NAME="time Coverage Results" MODIFIED="1575856881051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." />
+    <SUITE FILE_PATH="coverage/lxf$B02_h.coverage" NAME="B02.h Coverage Results" MODIFIED="1575608708022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B05_8.coverage" NAME="B05.8 Coverage Results" MODIFIED="1576134326861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$GeometryDemo.coverage" NAME="GeometryDemo Coverage Results" MODIFIED="1576802244212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../game/code/chap01" />
+    <SUITE FILE_PATH="coverage/lxf$B04_2.coverage" NAME="B04.2 Coverage Results" MODIFIED="1575631927345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B06_f.coverage" NAME="B06.f Coverage Results" MODIFIED="1576676264332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$B06_6.coverage" NAME="B06.6 Coverage Results" MODIFIED="1635644444022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$A13_4.coverage" NAME="A13.4 Coverage Results" MODIFIED="1635642664907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/lxf$B02_c.coverage" NAME="B02.c Coverage Results" MODIFIED="1575608616197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B4_b.coverage" NAME="B4.b Coverage Results" MODIFIED="1575857294454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$B06_9.coverage" NAME="B06.9 Coverage Results" MODIFIED="1576469924314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B06_e.coverage" NAME="B06.e Coverage Results" MODIFIED="1576637516333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$A13_3.coverage" NAME="A13.3 Coverage Results" MODIFIED="1575608530896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A" />
+    <SUITE FILE_PATH="coverage/lxf$B06_4.coverage" NAME="B06.4 Coverage Results" MODIFIED="1576310397546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$B05_3.coverage" NAME="B05.3 Coverage Results" MODIFIED="1575968120746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+    <SUITE FILE_PATH="coverage/lxf$B04_8.coverage" NAME="B04.8 Coverage Results" MODIFIED="1576162576682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B04" />
+    <SUITE FILE_PATH="coverage/lxf$BugDemo.coverage" NAME="BugDemo Coverage Results" MODIFIED="1576802157164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../game/code/chap01" />
+    <SUITE FILE_PATH="coverage/lxf$setup.coverage" NAME="setup Coverage Results" MODIFIED="1576833957665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../spaceShooter-master" />
+    <SUITE FILE_PATH="coverage/Imooc_Lxf$B06_1.coverage" NAME="B06.1 Coverage Results" MODIFIED="1635643524926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B06" />
+    <SUITE FILE_PATH="coverage/lxf$mypy_17.coverage" NAME="mypy_17 Coverage Results" MODIFIED="1576754887912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../尚学堂/Python400集第一季源代码/mypro_func(函数)" />
+    <SUITE FILE_PATH="coverage/lxf$B02_m.coverage" NAME="B02.m Coverage Results" MODIFIED="1575608808258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B02" />
+    <SUITE FILE_PATH="coverage/lxf$B03_2.coverage" NAME="B03.2 Coverage Results" MODIFIED="1575611821745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B03" />
+    <SUITE FILE_PATH="coverage/lxf$HelloPython.coverage" NAME="HelloPython Coverage Results" MODIFIED="1576802301931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../game/code/chap01" />
+    <SUITE FILE_PATH="coverage/lxf$B05_9.coverage" NAME="B05.9 Coverage Results" MODIFIED="1576116371277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B05" />
+  </component>
+</project>
